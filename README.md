@@ -2,11 +2,11 @@
 A macro-enabled Excel file for exporting and importing shapes/images' Alt Text from/to PowerPoint.
 Saves an awesome amount of time on updating (eg translating) all the Alt Text in a PowerPoint presntation.
 
-![PowerPoint-AltText](https://user-images.githubusercontent.com/2652773/169560925-6386c275-0c66-4515-8ce3-473fb4606f27.gif)
+![PowerPoint-AltText](https://user-images.githubusercontent.com/2652773/169572561-21db91b7-b90c-48f8-b93a-bc2339acf441.gif)
 
 ## Download
 [PowerPoint Alt Text.xlsm](https://github.com/samnseir/PowerPoint-AltText/raw/main/PowerPoint%20Alt%20Text.xlsm?download=1)
-<br />**`SHA256`** `ad115b5dbb5faea128a61afdbaf38cc76482cd902be9bee1197969386db3342b`
+<br />**`SHA256`** `b7c8d526cbd487cbdd230510af523e73b623703ccefeeebc936849328f93158e`
 
 ## How to use
 ### Get
@@ -25,4 +25,5 @@ Saves an awesome amount of time on updating (eg translating) all the Alt Text in
 - After the update, you will need to save the presentation. You can also Undo in PowerPoint to revert the changes.
 
 ## Versions
+- v1.6 - Check box added to generate thumbnails of the shapes/images
 - v1.5 - Shape Names are clickable and will navigate to the slide and select the shape in PowerPoint.
