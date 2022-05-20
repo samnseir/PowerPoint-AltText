@@ -18,6 +18,7 @@ Saves an awesome amount of time on updating (eg translating) all the Alt Text in
 
 ### Update
 - Add the new Alt Text in the second table - ensure it is entered/pasted as it correlates to the first table.
+- You do not need to enter/paste the new Alt Text for every shape/image - you can add new Alt Text for one or more shapres (the script will skip empty or non-changed Alt Text).
 - You can also change the Title and this will also be updated.
 - After doing an update, do a get to see the new changes come through.
 - After the update, you will need to save the presentation. You can also Undo in PowerPoint to revert the changes.
