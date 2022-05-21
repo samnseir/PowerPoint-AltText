@@ -5,7 +5,7 @@ Saves an awesome amount of time on updating (eg translating) all the Alt Text in
 ![PowerPoint-AltText](https://user-images.githubusercontent.com/2652773/169572561-21db91b7-b90c-48f8-b93a-bc2339acf441.gif)
 
 ## Download
-[PowerPoint Alt Text.xlsm](https://github.com/samnseir/PowerPoint-AltText/raw/main/PowerPoint%20Alt%20Text.xlsm?download=1)(right-click Save as to download)
+[PowerPoint Alt Text.xlsm](https://github.com/samnseir/PowerPoint-AltText/raw/main/PowerPoint%20Alt%20Text.xlsm?download=1) (right-click _Save link as_ to download)
 <br />**`SHA256`** `b7c8d526cbd487cbdd230510af523e73b623703ccefeeebc936849328f93158e`
 
 ## How to use
