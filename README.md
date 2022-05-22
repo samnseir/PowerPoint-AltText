@@ -1,4 +1,4 @@
-# PowerPoint Alt Text
+# PowerPoint Alt Text Import/Export
 A macro-enabled Excel file for exporting and importing shapes/images' Alt Text from/to PowerPoint.
 Saves an awesome amount of time on updating (eg translating) all the Alt Text in a PowerPoint presntation.
 
