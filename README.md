@@ -6,7 +6,7 @@ Saves an awesome amount of time on updating (eg translating) all the Alt Text in
 
 ## Download
 [PowerPoint Alt Text.xlsm](https://github.com/samnseir/PowerPoint-AltText/raw/main/PowerPoint%20Alt%20Text.xlsm?download=1) (right-click _Save link as_ to download)
-<br />**`SHA256`** `b7c8d526cbd487cbdd230510af523e73b623703ccefeeebc936849328f93158e`
+<br />**`SHA256`** `7b2925c4be3e3b554fa3bee5f320ad433ac8841fca53b3ada736629b2f3b25f2`
 
 ## How to use
 ### Get
@@ -26,5 +26,6 @@ Saves an awesome amount of time on updating (eg translating) all the Alt Text in
 - After the update, you will need to save the presentation. You can also Undo in PowerPoint to revert the changes.
 
 ## Versions
+- v1.7 - Added Reset button to clear the tables
 - v1.6 - Check box added to generate thumbnails of the shapes/images
 - v1.5 - Shape Names are clickable and will navigate to the slide and select the shape in PowerPoint.
